@@ -11,7 +11,7 @@ _Growth oriented._ <br><br>
 
 **BSc Information Technology**<br>
 North-West University | 2022 - 2024
-  - Maintained an 81% average for core moduels during the first and second year of study
+  - Maintained an 81% average for core modules during the first and second year of study
   - Golden Key International Honour Society member, 2022
 <br><br>
 
@@ -40,6 +40,7 @@ _Book that changed my thinking:_ [Zero to One](https://www.goodreads.com/book/sh
 **Java:** ⭐⭐⭐⚪⚪ <br>
 **SQL:** ⭐⭐⭐⚪⚪ <br>
 **Git** ⭐⭐⚪⚪⚪ <br>
+**Written communication:** ⭐⭐⭐⭐⭐ 
 <br><br>
 
 
