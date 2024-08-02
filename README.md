@@ -40,7 +40,7 @@ _Book that changed my thinking:_ [Zero to One](https://www.goodreads.com/book/sh
 **Java:** ⭐⭐⭐⚪⚪ <br>
 **SQL:** ⭐⭐⭐⚪⚪ <br>
 **Git** ⭐⭐⚪⚪⚪ <br>
-**Written communication:** ⭐⭐⭐⭐⭐ 
+**Communication:** ⭐⭐⭐⭐⭐ 
 <br><br>
 
 
