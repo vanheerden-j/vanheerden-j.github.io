@@ -1,3 +1,11 @@
+## About Me
+
+_Final-year BSc Information Technology student with an excellent academic record._ <br>
+_Passionate about learning new things._ <br>
+_Open minded and curious, with an abundance mindset._ <br>
+_Growth oriented._ <br><br>
+
+
 ## 👩🏼‍🎓 Educational Background
 
 **BSc Information Technology**<br>
