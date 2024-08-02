@@ -38,6 +38,7 @@ _Book that changed my thinking:_ [Zero to One](https://www.goodreads.com/book/sh
 ## ♾️	 Skills
 
 **Java:** ⭐⭐⚪⚪⚪ <br>
+**C#:** ⭐⭐⚪⚪⚪ <br>
 **SQL:** ⭐⭐⚪⚪⚪ <br>
 **Git:** ⭐⚪⚪⚪⚪ <br>
 **Communication:** ⭐⭐⭐⭐⭐ 
