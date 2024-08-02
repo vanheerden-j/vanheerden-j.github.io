@@ -27,9 +27,9 @@ Leading manufacturer of premium retread products.
 
 ## 🎤 Interests
 
-**Golf:** Obtained a Handicap Index of 12.<br>
-**Horse Racing:** Thoroughbred enthusiast and aspiring owner.<br>
-**Reading:** Avid and extensive reader.<br>
+⛳ **Golf:** Obtained a Handicap Index of 12.<br>
+🐎 **Horse Racing:** Thoroughbred enthusiast and aspiring owner.<br>
+📖 **Reading:** Avid and extensive reader.<br>
 _Recently completed:_ [Seabiscuit: An American Legend](https://www.goodreads.com/book/show/110737.Seabiscuit) <br>
 _Currently reading:_ [Unbroken: A World War II Story of Survival, Resilience and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) <br>
 _Book that changed my thinking:_ [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
@@ -39,7 +39,7 @@ _Book that changed my thinking:_ [Zero to One](https://www.goodreads.com/book/sh
 
 **Java:** ⭐⭐⭐⚪⚪ <br>
 **SQL:** ⭐⭐⭐⚪⚪ <br>
-**Git** ⭐⭐⚪⚪⚪ <br>
+**Git:** ⭐⭐⚪⚪⚪ <br>
 **Communication:** ⭐⭐⭐⭐⭐ 
 <br><br>
 
